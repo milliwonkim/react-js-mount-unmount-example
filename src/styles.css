@@ -1,0 +1,29 @@
+#container {
+  display: flex;
+  width: 500px;
+  margin: 20px auto;
+}
+
+section { 
+  margin: 0 20px;
+}
+
+#component { 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
+
+#showChild {
+  
+}
+
+#clearLog {
+  
+}
